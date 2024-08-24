@@ -34,7 +34,7 @@ Below is a preview of the Egg Omelette recipe web page, showcasing its layout an
 
 <p align='center'>
   <a href="#">
-    <img src="./resources/readme_images/website_preview.jpg" alt="website-snippet" style="0">
+    <img src="./resources/website_preview.jpg" alt="website-snippet" style="0">
   </a>
 </p>
 
@@ -148,12 +148,12 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- Image Links -->
 
-[project_logo]: ./resources/readme_images/project_cover_image.png
+[project_logo]: ./resources/project_cover_image.png
 
 <!-- Project Specific Links -->
 
-[frontend_mentor_link]:
-[website_link]:
+[frontend_mentor_link]: https://www.frontendmentor.io/home
+[website_link]: https://quantumudit.github.io/Recipe-Page/
 
 <!-- Profile Links -->
 
