@@ -152,7 +152,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- Project Specific Links -->
 
-[frontend_mentor_link]: https://www.frontendmentor.io/home
+[frontend_mentor_link]: https://www.frontendmentor.io/solutions/responsive-recipe-page-NLjn68ARvA
 [website_link]: https://quantumudit.github.io/Recipe-Page/
 
 <!-- Profile Links -->
